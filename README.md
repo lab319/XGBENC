@@ -13,4 +13,4 @@ The program is divided into three sections saved in this repository.
 
 Data preprocessing: preprocessed data can be used to test the models, the programs can directly process the data downloaded by TCGA.
 
-XGBENC_model: survival prediction model based on XGBENC was presented to analyze the patients' survival of 15 cancer datasets patients.
+XGBENC: survival prediction model based on XGBENC was presented to analyze the patients' survival of 15 cancer datasets patients.
