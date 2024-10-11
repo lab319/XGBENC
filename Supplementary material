@@ -1,0 +1,5 @@
+Figure Legends
+Supplementary Figure S1:The average C-index values of Lasso-Cox, Elastic net-cox, survival RSF, XGBoost, DeepSurv, XGBLC and XGBENC on 20 cancer datasets. The corresponding histogram shows the average C-index values of the seven algorithms using 5-fold cross-validation.
+Supplementary Figure S2: The average Brier scores of Lasso-Cox, Elastic net-cox, survival RSF, XGBoost, DeepSurv, XGBLC and XGBENC on 20 cancer datasets. The corresponding histogramshows the average Brier scores of the seven algorithms using 5-fold cross-validation. 
+Supplementary Figure S3: The average time-dependent AUC scores of Lasso-Cox, Elastic netcox, survival RSF, XGBoost, DeepSurv, XGBLC and XGBENC on 20 cancer datasets. The corresponding histogram shows the average time-dependent AUC values of the six algorithms using 
+5-fold cross-validation. (a) 1-year AUC score; (b) 3-year AUC score; (c) 5-year AUC score. 
